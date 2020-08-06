@@ -1,0 +1,62 @@
+
+body {
+font-family: "Poppina";
+line-height: 1.4;
+background-image: url('../Images/netflixbackground1.jpg'); /*holy shit I had so many problems with the relative path...You can go back with ../  */
+background-color: #fff;
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: scroll ;
+width: 500px;
+margin: auto;
+
+}
+
+form {
+background: #000000;
+opacity:0.75;
+color: white;
+padding: 2.5rem 2.5rem;
+border-radius: 2rem;
+width: 500px;
+margin: auto;
+}
+
+.submit-button {
+width: 100%;
+padding: 0.75rem;
+background: red;
+color: white;
+border-radius:2px;
+cursor: pointer;
+
+}
+
+.input-headings{
+margin: 0 auto 1.25rem auto;
+padding: 0.25rem;
+opacity:1;
+}
+
+.form_inputs{
+    display:block;
+    width: 90%;
+    height: 2rem;
+    padding: 0.25rem o.75rem;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+
+}
+
+.header{
+background-color: #E50914;
+border: 1px solid #000000;
+border-radius: 1.5rem;
+padding-top: 0px;
+padding-right:0px;
+padding-bottom:0.25rem;
+padding-left:0.5rem;
+opacity:0.75;
+}
